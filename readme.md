@@ -9,6 +9,6 @@ However, if anyone's feeling more ambitious to scrape more data, The Economist's
 
 `http://infographics.economist.com/2017/bigmacindex_jan2017/public/bigmac_[Abbreviated month][Year].js`
 
-[Here, for instance, are the prices and exchange rates for January 2017](view-source:http://infographics.economist.com/2017/bigmacindex_jan2017/public/bigmac_Jul2013.js).
+[Here, for instance, are the prices and exchange rates for July 2013: `../bigmac_Jul2013.js`](http://infographics.economist.com/2017/bigmacindex_jan2017/public/bigmac_Jul2013.js).
 
 Note that prices are collected 1-2 times a year, typically in January and July. 
